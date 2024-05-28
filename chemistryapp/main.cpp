@@ -15,6 +15,7 @@ int main(int argc, char *argv[])
     Model model;
     BounceEngine engine;
     MainWindow w(model, engine);
+    w.setWindowState(Qt::WindowMaximized);
     w.show();
     return a.exec();
 }
