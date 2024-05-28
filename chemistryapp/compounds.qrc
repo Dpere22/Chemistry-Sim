@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>compounds.json</file>
+        <file>elements.json</file>
+        <file>ChemIcon.ico</file>
+        <file>CompoundDiscoveredSound.wav</file>
+        <file>BondFailedSound.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,340 @@
+    {
+    "compounds":[
+    {
+        "atomicFormula": "8|1:1|1:1 1|8:1 1|8:1",
+        "atomicNumbers":[1,1,8],
+        "formula":"H2O",
+        "commonName":"Water",
+        "molecularWeight":"18.015 g/mol",
+        "description":"A transparent fluid which forms the world's streams, lakes, oceans and rain, and is the major constituent of the fluids of organisms."
+    },
+    {
+        "atomicFormula": "6|8:2|8:2 8|6:2 8|6:2",
+        "atomicNumbers":[6,8,8],
+        "formula":"CO2",
+        "commonName":"Carbon Dioxide",
+        "molecularWeight":"44.009 g/mol",
+        "description":"Found in the gas state at room temperature, and as the source of available carbon in the carbon cycle, atmospheric CO2 is the primary carbon source for life on Earth."
+    },
+    {
+        "atomicFormula": "6|6:2|6:1|1:1 6|6:2|6:1|1:1 6|6:2|6:1|1:1 6|6:2|6:1|8:1 6|6:2|6:1|6:1 6|6:1|8:1|8:2 8|6:1|1:1 8|6:2 8|6:1|1:1 1|6:1 1|6:1 1|6:1 1|6:1 1|8:1 1|8:1",
+        "atomicNumbers":[6,6,6,6,6,6,6,1,1,1,1,1,1,8,8,8],
+        "formula":"C7H6O3",
+        "commonName":"Salicylic Acid",
+        "molecularWeight":"138.122 g/mol",
+        "description":"A colorless (or, white), bitter-tasting solid, it is a precursor to and a metabolite of aspirin (acetylsalicylic acid)."
+    },
+    {
+        "atomicFormula": "7|6:2|6:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 6|7:2|1:1|6:1 6|1:1|6:1|6:2 6|1:1|6:1|6:2 6|1:1|6:1|6:2 6|1:1|6:2|7:1",
+        "atomicNumbers":[6,6,6,6,6,1,1,1,1,1,7],
+        "formula":"C5H5N",
+        "commonName":"Pyridine",
+        "molecularWeight":"79.102 g/mol",
+        "description":"It is a highly flammable, weakly alkaline, water-miscible liquid with a distinctive, unpleasant fish-like smell."
+    },
+    {
+        "atomicFormula": "6|6:1|6:2|1:1 6|6:1|6:2|1:1 6|6:1|6:2|1:1 6|6:1|6:2|1:1 6|6:1|6:2|1:1 6|6:1|6:2|1:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1",
+        "atomicNumbers":[6,6,6,6,6,6,1,1,1,1,1,1],
+        "formula":"C6H6",
+        "commonName":"Benzene",
+        "molecularWeight":"78.114 g/mol",
+        "description":"Benzene is a colorless and highly flammable liquid with a sweet smell, and is partially responsible for the aroma of gasoline."
+    },
+    {
+        "atomicFormula": "6|1:1|1:1|1:1|8:1 1|6:1 1|6:1 1|6:1 8|6:1|1:1 1|8:1",
+        "atomicNumbers":[6,1,1,1,8,1],
+        "formula":"CH3OH",
+        "commonName":"Methanol",
+        "molecularWeight":"32.042 g/mol",
+        "description":"It is a light, volatile, colorless and flammable liquid with a distinctive alcoholic odour similar to that of ethanol (potable alcohol)"
+    },
+    {
+        "atomicFormula": "7|1:1|1:1|1:1 1|7:1 1|7:1 1|7:1",
+        "atomicNumbers":[7,1,1,1],
+        "formula":"NH3",
+        "commonName":"Ammonia",
+        "molecularWeight":"17.031 g/mol",
+        "description":"a colourless gas with a distinctive pungent smell. Biologically, it is a common nitrogenous waste, and it contributes significantly to the nutritional needs of terrestrial organisms by serving as a precursor to fertilisers."
+    },
+    {
+        "atomicFormula": "6|1:1|1:1|1:1|1:1 1|6:1 1|6:1 1|6:1 1|6:1",
+        "atomicNumbers":[6,1,1,1,1],
+        "formula":"CH4",
+        "commonName":"Methane",
+        "molecularWeight":"16.043 g/mol",
+        "description":"The simplest alkane, and the main constituent of natural gas."
+    },
+    {
+        "atomicFormula": "8|1:1 1|8:1",
+        "atomicNumbers":[8,1],
+        "formula":"OH",
+        "commonName":"Hydroxide",
+        "molecularWeight":"17.007 g/mol",
+        "description":"It is an important but usually minor constituent of water. It functions as a base, a ligand, a nucleophile, and a catalyst."
+    },
+    {
+        "atomicFormula": "6|8:1|8:1|8:1 8|6:1 8|6:1 8|6:1",
+        "atomicNumbers":[6,8,8,8],
+        "formula":"CO3",
+        "commonName":"Carbonate",
+        "molecularWeight":"60.008 g/mol",
+        "description":"An unstable oxide of carbon (an oxocarbon). Very short lifespan"
+    },
+    {
+        "atomicFormula": "1|8:1 8|1:1|16:1 1|8:1 8|1:1|16:1 8|16:2 8|16:2 16|8:2|8:2|8:1|8:1",
+        "atomicNumbers":[1,1,16,8,8,8,8],
+        "formula":"H2SO4",
+        "commonName":"Sulfuric Acid",
+        "molecularWeight":"98.079 g/mol",
+        "description":"A colorless, odorless, and viscous liquid that is miscible with water."
+    },
+    {
+        "atomicFormula": "11|17:1 17|11:1",
+        "atomicNumbers":[11,17],
+        "formula":"NaCl",
+        "commonName":"Salt",
+        "molecularWeight":"58.443",
+        "description":"In its edible form, it is commonly used as a condiment and food preservative. Large quantities of sodium chloride are used in many industrial processes"
+    },
+    {
+        "atomicFormula": "8|1:1|6:1 8|1:1|6:1 8|1:1|6:1 8|1:1|6:1 8|1:1|6:1 8|6:1|6:1 1|8:1 1|8:1 1|8:1 1|8:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 6|8:1|8:1|1:1|6:1 6|6:1|6:1|1:1|8:1 6|6:1|6:1|1:1|8:1 6|6:1|6:1|1:1|8:1 6|6:1|6:1|1:1|8:1 6|6:1|1:1|1:1|8:1",
+        "atomicNumbers":[6,6,6,6,6,6,1,1,1,1,1,1,1,1,1,1,1,1,8,8,8,8,8,8],
+        "formula":"C6H12O6",
+        "commonName":"Glucose",
+        "molecularWeight":"180.156 g/mol",
+        "description":"mainly made by plants and most algae during photosynthesis from water and carbon dioxide, using energy from sunlight, where it is used to make cellulose in cell walls, the most abundant carbohydrate in the world"
+    },
+    {
+        "atomicFormula": "7|7:2 7|7:2|7:2 7|7:2|1:1 1|7:1",
+        "atomicNumbers":[1,7,7,7],
+        "formula":"HN3",
+        "commonName":"Hydrazoic Acid",
+        "molecularWeight":"43.029 g/mol",
+        "description":"It is a colorless, volatile, and explosive liquid at room temperature and pressure. It is a compound of nitrogen and hydrogen"
+    },
+    {
+        "atomicFormula": "1|17:1 17|1:1",
+        "atomicNumbers":[1,17],
+        "formula":"HCl",
+        "commonName":"Hydrochloric Acid",
+        "molecularWeight":"36.46 g/mol",
+        "description":"It is a colorless solution with a distinctive pungent smell. It is classified as a strong acid. It is a component of the gastric acid in the digestive systems of most animal species, including humans. "
+    },
+    {
+        "atomicFormula": "8|1:1|11:1 1|8:1 11|8:1",
+        "atomicNumbers":[11,8,1],
+        "formula":"NaOH",
+        "commonName":"Sodium Hydroxide",
+        "molecularWeight":"39.997 g/mol",
+        "description":"Sodium hydroxide is a highly corrosive base and alkali that decomposes lipids and proteins at ambient temperatures and may cause severe chemical burns"
+    },
+    {
+        "atomicFormula": "7|7:2 7|7:2|8:2 8|7:2",
+        "atomicNumbers":[7,7,8],
+        "formula":"N2O",
+        "commonName":"Nitrous Oxide",
+        "molecularWeight":"44.013 g/mol",
+        "description":"commonly known as laughing gas, nitrous, nitro, or nos,[4] is a chemical compound, an oxide of nitrogen with the formula N2O"
+    },
+    {
+        "atomicFormula": "8|14:2 8|14:2 14|8:2|8:2",
+        "atomicNumbers":[14,8,8],
+        "formula":"SiO2",
+        "commonName":"Silica",
+        "molecularWeight":"60.08 g/mol",
+        "description":"An oxide of silicon with the chemical formula SiO2, commonly found in nature as quartz."
+    },
+    {
+        "atomicFormula": "8|8:2 8|8:2|8:1 8|8:1",
+        "atomicNumbers":[8,8,8],
+        "formula":"O3",
+        "commonName":"Ozone",
+        "molecularWeight":"47.997",
+        "description":"a pale blue gas with a distinctively pungent smell. It is an allotrope of oxygen that is much less stable than the diatomic allotrope O2, breaking down in the lower atmosphere to O2 (dioxygen)."
+    },
+    {
+        "atomicFormula": "6|8:2|8:1|1:1 8|6:2 8|6:1|1:1 1|6:1 1|8:1",
+        "atomicNumbers":[1,6,8,8,1],
+        "formula":"HCOOH",
+        "commonName":"Formic Acid",
+        "molecularWeight":"46.025 g/mol",
+        "description":"an important intermediate in chemical synthesis and occurs naturally, most notably in some ants."
+    },
+    {
+        "atomicFormula": "15|8:2|8:1|8:1|8:1 8|15:2 8|15:1 8|15:1 8|15:1",
+        "atomicNumbers":[15,8,8,8,8],
+        "formula":"PO4",
+        "commonName":"Phosphate",
+        "molecularWeight":"94.9714 g/mol",
+        "description":"Derived from phosphoric acid by the removal of three protons H+."
+    },
+    {
+        "atomicFormula": "8|1:1|6:1 8|1:1|6:1 6|8:1|8:1|8:2 8|6:2 1|8:1 1|8:1",
+        "atomicNumbers":[1,1,6,8,8,8],
+        "formula":"H2CO3",
+        "commonName":"Carbonic Acid",
+        "molecularWeight":"62.03 g/mol",
+        "description":"The molecule rapidly converts to water and carbon dioxide in the presence of water. However, in the absence of water, it is (contrary to popular belief) quite stable at room temperature"
+    },
+    {
+        "atomicFormula": "8|7:2 7|8:2|8:1 8|7:1|1:1 1|8:1",
+        "atomicNumbers":[1,7,8,8],
+        "formula":"HNO2",
+        "commonName":"Nitrous Acid",
+        "molecularWeight":"47.013 g/mol",
+        "description":"A weak and monoprotic acid known only in solution, in the gas phase, and in the form of nitrite (NO-2) salts."
+    },
+    {
+        "atomicFormula": "6|1:1|1:1|1:1|6:1 6|1:1|1:1|8:1|6:1 8|6:1|1:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 1|8:1 ",
+        "atomicNumbers":[6,6,1,1,1,1,1,8,1],
+        "formula":"C2H5OH",
+        "commonName":"Ethanol",
+        "molecularWeight":"46.069 g/mol",
+        "description":"Ethanol is a volatile, flammable, colorless liquid with a characteristic wine-like odor and pungent taste.[13][14] It is a psychoactive recreational drug, and the active ingredient in alcoholic drinks. "
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[6,6,6,6,6,6,6,1,1,1,1,1,11,8,8],
+        "formula":"C7H5NaO2",
+        "commonName":"Sodium Benzoate",
+        "molecularWeight":"144.105 g/mol",
+        "description":"Widely used as a food preservative (with an E number of E211) and a pickling agent."
+    },
+    {
+        "atomicFormula": "1|8:1 1|8:1 8|1:1|8:1 8|1:1|8:1",
+        "atomicNumbers":[1,1,8,8],
+        "formula":"H2O2",
+        "commonName":"Hydrogen Peroxide",
+        "molecularWeight":"34.014 g/moll",
+        "description":"In its pure form, it is a very pale blue[5] liquid that is slightly more viscous than water. It is used as an oxidizer, bleaching agent, and antiseptic"
+    },
+    {
+        "atomicFormula": "6|1:1|1:1|1:1|6:1 6|6:1|6:1|1:1|8:1 8|1:1|6:1 6|6:1|1:|1:1|1:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 1|6:1 1|8:1",
+        "atomicNumbers":[6,6,6,1,1,1,1,1,1,1,1,8],
+        "formula":"C3H8O",
+        "commonName":"Isopropyl Alcohol",
+        "molecularWeight":"60.096 g/mol",
+        "description":"A colorless, flammable organic compound with a pungent alcoholic odor"
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[6,6,1,1,1,11,8,8],
+        "formula":"C2H3NaO2",
+        "commonName":"Sodium Acetate",
+        "molecularWeight":"82.034 g/mol",
+        "description":"The sodium salt of acetic acid. This colorless deliquescent salt has a wide range of uses. "
+    },
+    {
+        "atomicFormula": "6|8:2|8:1|6:1 8|6:2 8|6:1|1:1 6|6:1|1:1|1:1|1:1 1|6:1 1|6:1 1|6:1 1|8:1",
+        "atomicNumbers":[6,1,1,1,6,8,8,1],
+        "formula":"CH3COOH",
+        "commonName":"Acetic Acid",
+        "molecularWeight":"60.052 g/mol",
+        "description":"Acetic acid is the second simplest carboxylic acid (after formic acid). It is an important chemical reagent and industrial chemical across various fields"
+    },
+    {
+        "atomicFormula": "7|8:2|8:1|8:1 8|7:1 8|7:2 8|7:1|1:1 1|8:1",
+        "atomicNumbers":[1,7,8,8,8],
+        "formula":"HNO3",
+        "commonName":"Nitric Acid",
+        "molecularWeight":"63.012 g/mol",
+        "description":" It is a highly corrosive mineral acid.[6] The compound is colorless, but samples tend to acquire a yellow cast over time due to decomposition into oxides of nitrogen."
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[20,6,8,8,8],
+        "formula":"CaCO3",
+        "commonName":"Calcium Carbonate",
+        "molecularWeight":"163.939 g/mol",
+        "description":"A white, granular or crystalline solid, highly soluble in water, producing an alkaline solution."
+    },
+    {
+        "atomicFormula": "6|6:1|8:1|1:1|6:1 6|6:1|8:1|1:1|1:1 8|6:1|1:1 1|8:1 1|6:1 1|6:1 6|8:1|6:1|1:1|6:1 6|8:1|6:1|6:1|1:1 6|8:2|6:1|6:1 6|8:1|6:1|1:1|1:1 8|1:1|6:1 1|8:1 1|6:1 1|6:1 8|6:2 8|6:1|1:1 1|8:1 1|6:1 8|1:1|6:1 1|8:1 1|6:1 8|6:1|1:1 1|8:1 1|6:1",
+        "atomicNumbers":[6,6,6,6,6,6,1,1,1,1,1,1,1,1,1,1,1,1,8,8,8,8,8,8],
+        "formula":"C6H12O6",
+        "commonName":"Fructose",
+        "molecularWeight":"180.156 g/mol",
+        "description":"A ketonic simple sugar found in many plants, where it is often bonded to glucose to form the disaccharide sucrose."
+    },
+    {
+        "atomicFormula": "7|1:1|1:1|1:1 1|7:1 1|7:1 1|7:1",
+        "atomicNumbers":[7,1,1,1],
+        "formula":"NH3",
+        "commonName":"Ammonia",
+        "molecularWeight":"17.031 g/mol",
+        "description":"A colourless gas with a distinctive pungent smell. Biologically, it is a common nitrogenous waste, and it contributes significantly to the nutritional needs of terrestrial organisms by serving as a precursor to fertilisers.["
+    },
+    {
+        "atomicFormula": "6|6:1|1:1|6:2 1|6:1 6|8:1|6:2|6:1 8|6:1|1:1 1|8:1 6|6:2|6:1|1:1 1|6:1 6|1:1|6:1|6:2 1|6:1 6|1:1|6:2|6:1 1|6:1 6|1:1|6:1|6:2 1|6:1",
+        "atomicNumbers":[6,6,6,6,6,6,1,1,1,1,1,1,8],
+        "formula":"C6H6O",
+        "commonName":"Phenol",
+        "molecularWeight":"94.113 g/mol",
+        "description":"A white crystalline solid that is volatile. Can cause chemical burns"
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[47,7,8,8,8],
+        "formula":"AgNO3",
+        "commonName":"Silver Nitrate",
+        "molecularWeight":"169.842 g/mol",
+        "description":"A versatile precursor to many other silver compounds, such as those used in photography. "
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[20,17,17],
+        "formula":"CaCl2",
+        "commonName":"Calcium Chloride",
+        "molecularWeight":"110.98 g/mol",
+        "description":"A white crystalline solid at room temperature, and it is highly soluble in water. It can be created by neutralising hydrochloric acid with calcium hydroxide. "
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[11,1,6,8,8,8],
+        "formula":"NaHCO3",
+        "commonName":"Sodium bicarbonate",
+        "molecularWeight":"84.0066 g/mol",
+        "description":"Sodium bicarbonate is a white solid that is crystalline but often appears as a fine powder. It has a slightly salty, alkaline taste resembling that of washing soda (sodium carbonate)"
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[6,6,6,6,6,6,6,6,6,6,6,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,8,8,8,8,8,8,8,8,8,8],
+        "formula":"C12H22O11",
+        "commonName":"Sucrose",
+        "molecularWeight":"342.30 g/mol",
+        "description":"Sugar composed of glucose and fructose subunits. It is produced naturally in plants and is the main constituent of white sugar"
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[1,35],
+        "formula":"HBr",
+        "commonName":"Hydrobromic acid",
+        "molecularWeight":"80.91 g/mol",
+        "description":"A strong acid formed by dissolving the diatomic molecule hydrogen bromide (HBr) in water. "
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[19,8,1],
+        "formula":"KOH",
+        "commonName":"",
+        "molecularWeight":"56.11 g/mol",
+        "description":"It has many industrial and niche applications, most of which utilize its caustic nature and its reactivity toward acids."
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[11,11,6,8,8,8],
+        "formula":"Na2CO3 ",
+        "commonName":"Sodium Carbonate",
+        "molecularWeight":"105.9888 g/mol",
+        "description":"All forms are white, odourless, water-soluble salts that yield alkaline solutions in water."
+    },
+    {
+        "atomicFormula": "",
+        "atomicNumbers":[7,8,8],
+        "formula":"NO2",
+        "commonName":"Nitrogen Dioxide",
+        "molecularWeight":"46.005 g/mol",
+        "description":"One of several nitrogen oxides, nitrogen dioxide is a reddish-brown gas. Nitrogen dioxide is poisonous and can be lethal if inhaled in large quantities"
+    }
+    ]
+}
