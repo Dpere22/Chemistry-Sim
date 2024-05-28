@@ -14,7 +14,7 @@ MainWindow::MainWindow(Model &model, BounceEngine &engine, QWidget *parent)
     , engine(&engine)
 {
     goodSound.setSource(QUrl("qrc:/CompoundDiscoveredSound.wav"));
-    badSound.setSource(QUrl("qrc:/BondFailedSound.wav"));
+    badSound.setSource(QUrl("qrc:/wrong.wav"));
     goodSound.setVolume(0.3); // sets the volume of the sound effect player.
     badSound.setVolume(0.3);
     ui->setupUi(this);

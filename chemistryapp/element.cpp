@@ -15,17 +15,11 @@ const QVector<QColor> Element::GroupColors{
 
 const char *FAIL_REASON_NONE = "";
 const char *FAIL_REASON_NOBLEGAS
-    = "One of these atoms is a Noble Gas. Much like true nobility, a Noble Gas doesn't do "
-      "much. This is because all of its electron orbitals are satisfied by default, meaning that "
-      "is has no strong attraction towards gaining, losing, or sharing any electrons to form "
-      "bonds.";
+    = "One of these atoms is a Noble Gas. All of its electron orbitals are satisfied.";
 const char *FAIL_REASON_NOTSUPPORTED
-    = "Uh oh! Looks like we are getting into advanced topics here. As much as it is interesting to "
-      "delve into the secrets of reality, only so much is possible in the QT framework. Try "
-      "connecting elements from the left and right of the periodic table!";
+    = "Metals Not Supported Yet!";
 const char *FAIL_REASON_SATISFIED
-    = "One of these atoms has satisfied all of its electron orbitals. This means that it has no "
-      "more electrons to share, gain, or lose in order to form bonds. Good work!";
+    = "One of these atoms has satisfied all of its electron orbitals";
 
 bool Element::isMetal() const
 {

@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Chemistry :)</string>
+   <string>Chemistry Simulator</string>
   </property>
   <property name="windowIcon">
    <iconset resource="compounds.qrc">
@@ -21,7 +21,7 @@
    <property name="enabled">
     <bool>true</bool>
    </property>
-   <layout class="QGridLayout" name="gridLayout_2" rowstretch="0,0,0,0,0,0" columnstretch="0,0">
+   <layout class="QGridLayout" name="gridLayout_2" rowstretch="0,0,0,0,0" columnstretch="0,0">
     <item row="4" column="0">
      <widget class="QFrame" name="horizontalFrame">
       <property name="styleSheet">
@@ -48,8 +48,8 @@
            <height>0</height>
           </size>
          </property>
-         <property name="styleSheet">
-          <string notr="true"/>
+         <property name="autoFillBackground">
+          <bool>false</bool>
          </property>
         </widget>
        </item>
@@ -175,7 +175,7 @@
           <rect>
            <x>0</x>
            <y>0</y>
-           <width>158</width>
+           <width>168</width>
            <height>298</height>
           </rect>
          </property>
@@ -209,7 +209,7 @@
          </font>
         </property>
         <property name="styleSheet">
-         <string notr="true">color: rgb(0, 170, 0);</string>
+         <string notr="true">color: rgb(255, 48, 51);</string>
         </property>
         <property name="text">
          <string/>
@@ -232,7 +232,7 @@
      <x>0</x>
      <y>0</y>
      <width>1593</width>
-     <height>17</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>

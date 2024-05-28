@@ -1,11 +1,5 @@
 #include "bounceengine.h"
 
-// TODO:
-// Implement Valence electron calculations
-// Center Element abbreviation on atom
-// Remove temporary atom generator clicks
-// Add different colors - DONE
-
 /// Base simulation gravity
 static const int GRAVITY_X = 0;
 static const int GRAVITY_Y = 0;

@@ -129,7 +129,7 @@
         "description":"Sodium hydroxide is a highly corrosive base and alkali that decomposes lipids and proteins at ambient temperatures and may cause severe chemical burns"
     },
     {
-        "atomicFormula": "7|7:2 7|7:2|8:2 8|7:2",
+        "atomicFormula": "7|7:1|8:1 8|7:1 7|7:1",
         "atomicNumbers":[7,7,8],
         "formula":"N2O",
         "commonName":"Nitrous Oxide",
